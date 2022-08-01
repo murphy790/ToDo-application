@@ -36,3 +36,119 @@
     transform: rotate(360deg);
   }
 }
+body {
+  background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+  color: white;
+  font-family: "Poppins", sans-serif;
+  min-height: 100vh;
+}
+
+.label{
+  display: block;
+  font-size: larger;
+  color: black;
+  padding: 5px;
+  }
+  
+  .input{
+  font-size: larger;
+  padding: 5px;
+  margin: 2px;
+  
+  }
+  .btn{
+  color: white;
+  background-color:green;
+  border-radius: 5px;
+  font-size: larger;
+  display: block;
+  padding: 5px;
+  margin: 10px auto;
+  }
+  
+  .messages{
+  display: flex;
+  justify-content: center;
+  }
+  
+  .error{
+  display: block;
+  background-color: red;
+  color: white;
+  width: fit-content;
+  height: 50px;
+  padding: 5px;
+  }
+  
+  .success{
+  display: block;
+  background-color: lightblue;
+  color: black;
+  width: fit-content;
+  height: 50px;
+  padding: 5px;
+  }
+  .homebutton{
+    background-color: #4CAF50; /* Green */
+    border-radius: 5px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 50%;
+    
+  }
+    .homebutton:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
+  .homediv{
+    align-items: center;
+  }
+   .firstheading{ 
+    color: black; 
+    font-family: 'Raleway',sans-serif; 
+    font-size: 62px; 
+    font-weight: 800; 
+    line-height: 72px; 
+    margin: 0 0 24px; 
+    text-align: center; 
+    /* text-transform: uppercase;  */
+  }
+  .homeparagraph{
+    color: #7a7c7f; 
+    font-size: 29px; 
+    font-family: "Libre Baskerville", serif; 
+    line-height: 45px; 
+    text-align: center; 
+    text-shadow: 0 1px 1px #fff; 
+    padding-top: 20px; 
+
+
+  }
+  .ul {
+    padding-left: 2rem;
+    list-style-type: square;
+    list-style-position: outside;
+  }
+  .ulli {
+    padding-left: 2rem;
+    /* background-image: url(star.svg); */
+    background-position: 0 0;
+    background-size: 1.6rem 1.6rem;
+    background-repeat: no-repeat;
+    list-style-position: inside;
+    color: #282c34;
+  }
+
+/* .todo-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+} */

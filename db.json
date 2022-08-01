@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "tasks": "Learning programming by 12am.",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "tasks": "Learn how to play the guitar by 2pm.",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "tasks": "Go to the gym by 3pm.",
+      "completed": false
+    },
+    {
+      "tasks": "Attend a tech event",
+      "completed": true,
+      "id": 4
+    }
+  ]
+}
