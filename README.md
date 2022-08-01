@@ -2,10 +2,9 @@
 
 ToDo application is a single page application created using create-react-app.
 It helps the user increase their productivity,prioritise tasks,manage tasks effectively and also use their time wisely.
+After launching the application it looks like this.
 
-The application is hosted on github pages and can be viewed using this link:https://murphy790.github.io/ToDo-application/
-
-
+Screenshot from 2022-08-01 22-15-46.png
 ## Getting Started
 Inorder to run this app you must have nodejs installed in your local machine.
 Open a terminal line on your machine and then navigate to a directory where you would like to clone the repo.
