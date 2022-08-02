@@ -19,6 +19,11 @@
       "tasks": "Attend a tech event",
       "completed": true,
       "id": 4
+    },
+    {
+      "tasks": "Help in cleaning up our local playground by 5pm",
+      "completed": true,
+      "id": 5
     }
   ]
 }
